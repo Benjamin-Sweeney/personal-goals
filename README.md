@@ -3,6 +3,8 @@ Personal Goals
 
 Personal goals made open source.
 
+[Inspired by Una's blog post.](http://una.github.io/personal-goals-guide/)
+
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
