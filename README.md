@@ -2,43 +2,40 @@ Personal Goals
 ==============
 
 Personal goals made open source.
-
 [Inspired by Una's blog post.](http://una.github.io/personal-goals-guide/)
-
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
 1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+2. Write more
+3. Share more
+4. Participate in the web community
+5. Learn more front-end skills
+6. Keep myself accountable
+7. Curate and track my goals
+8. Help others
+9. Use Terminal and Github more
 
-# November 00, 2014
+# February 16, 2015
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Complete initial Design phase of Our Kitchen
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
+- [ ] Research and note case study methods
+- [ ] Moodboard visual style
+- [ ] Finalize Brandmark
+- [ ] Write up ideals and goals of the project
+- [ ] Sketch wireframes and user flow
+- [ ] Design Elements
+- [ ] Finalize Design
+
+### Things I'll Do This Month: February 2015
+- [ ] Attend a web meetup
+- [ ] Launch personal website (redesign)
+- [ ] Reach out to people who inspire me
 - [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
-
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Backlog: Side Projects
+- [ ] Work on launching new personal website
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+1. Read up on Jekyll
