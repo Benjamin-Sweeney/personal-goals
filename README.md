@@ -15,12 +15,24 @@ Personal goals made open source.
 8. Help others
 9. Use Terminal and Github more
 
-# February 16, 2015
+# March 10, 2015
 
-### This Week's Goal: Complete initial Design phase of Our Kitchen
+### This Week's Goal: Read more on JS
 
 ## Things I'll Do This Week:
-- [ ] Research and note case study methods
+- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
+- [ ] Write a blog-post about my new website
+- [ ] Learn how to animate SVG with JS
+- [ ] Document Design Camp workshops process
+- [ ] Finalize Studio Tours for Portfolio 1-on-1
+
+
+### Things I'll Do This Month: March 2015
+- [x] Launch personal website (redesign)
+- [ ] Reach out to people who inspire me
+- [ ] **Send an email to Una**
+- [ ] Write a blog post
+- [x] Research and note case study methods
 - [ ] Moodboard visual style
 - [ ] Finalize Brandmark
 - [ ] Write up ideals and goals of the project
@@ -28,14 +40,8 @@ Personal goals made open source.
 - [ ] Design Elements
 - [ ] Finalize Design
 
-### Things I'll Do This Month: February 2015
-- [ ] Attend a web meetup
-- [ ] Launch personal website (redesign)
-- [ ] Reach out to people who inspire me
-- [ ] Write a blog post
-
 ### Backlog: Side Projects
-- [ ] Work on launching new personal website
+- [ ] Improve personal website
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Read up on Jekyll
